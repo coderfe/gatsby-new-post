@@ -1,22 +1,22 @@
 {
-  "name": "gatsby-new-post",
-  "displayName": "gatsby-new-post",
-  "description": "Create new post with Gatsby.js",
+  "name": "new-gatsby-post",
+  "displayName": "new GatsbyPost()",
+  "description": "Create post in Gatsby",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.40.0"
+    "vscode": "^1.39.0"
   },
   "categories": [
     "Other"
   ],
   "activationEvents": [
-    "onCommand:extension.Gatsby"
+    "onCommand:extension.NewGatsbyPost"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "extension.Gatsby",
+        "command": "extension.NewGatsbyPost",
         "title": "Gatsby: Create new post"
       }
     ],

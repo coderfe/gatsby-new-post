@@ -27,7 +27,7 @@
           "gatsby.postsDir": {
             "type": "string",
             "default": "src/pages",
-            "description": "Gatsby posts Directory"
+            "description": "Gatsby posts directory"
           },
           "gatsby.frontmatter": {
             "type": "array",

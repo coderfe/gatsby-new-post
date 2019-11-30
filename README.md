@@ -1,4 +1,4 @@
-# new gatsby post
+# new GatsbyPost()
 
 > 在 Gatsby.js 项目中创建一篇文章。
 

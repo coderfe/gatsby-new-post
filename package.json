@@ -3,11 +3,16 @@
   "displayName": "new GatsbyPost()",
   "description": "Create post in Gatsby",
   "version": "0.0.1",
+  "publisher": "coderfee",
   "engines": {
-    "vscode": "^1.39.0"
+    "vscode": "^1.38.0"
   },
   "categories": [
     "Other"
+  ],
+  "keywords": [
+    "Gatsby",
+    "Blog"
   ],
   "activationEvents": [
     "onCommand:extension.NewGatsbyPost"
@@ -63,5 +68,10 @@
   },
   "dependencies": {
     "fs-extra": "^8.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderfe/new-gatsby-post.git"
+  },
+  "license": "MIT"
 }
